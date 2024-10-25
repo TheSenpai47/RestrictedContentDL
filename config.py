@@ -2,8 +2,7 @@
 # Channel: https://t.me/abir_xd_bio
 
 # Pyrogram setup
-API_ID = "
-22179294"  # Replace this API ID with your actual API ID
-API_HASH = "02a7d59472246972cb827ce1d8e1e2e2"  # Replace this API HASH with your actual API HASH
-BOT_TOKEN = "8063825557:AAESIRoO_rGKMvx8lCeHEB3Ox-PMmvSwsus"  # Replace this BOT_TOKEN
-SESSION_STRING = "BQFSbd4AF1_EIgOawHRKWaq_nZDqQtbWkcUnwkmyCLNcDaQveqdEhS5tsjMmZqCXLjnrMUaG-qHGsiq-ahAyZWinWQUoyAUaeF61shyrqV_VUWArlGd0W7ul4sRRyNFYW9tTjKEiTC_gDrxUl2hYih5LFgJhw9F_vsrAzR5K5A4v9tHnT7HvWqEDG0Y4YoPE02SqRt7UJ3BSRTmvdkFbwxZBC3MIR_XxIcYQwnornn8wQr-Y94qjvJm9I_dVHQ0aB7XAt8dKPX7-RNpyu2h5L3x239OLER0qgf-qXhbOKoxTfGejjewYLJ0umYYkqu4yfjWgROCxl1wa6m8jDY2U3hVNnYuX5QAAAAGzV09gAA" # Replace this SESSION STRING with your actual SESSION_STRING
+API_ID = "15047947"  # Replace this API ID with your actual API ID
+API_HASH = "8e95af19215c497a2e8799ef7c6fa969"  # Replace this API HASH with your actual API HASH
+BOT_TOKEN = "7333760658:AAHma51n_VYMCl9Gpt2Ak0sWTsx3GmkSgkw"  # Replace this BOT_TOKEN
+SESSION_STRING = "BQDlnQsANGTHp7jfJSRpGzDOykhsynHH_MSsKDcLuPjwplFnlOoksNK5gdeH39ir09IazcCpGzfqqC7E1w2Nx_fuxAfiJAPInUYfoE8KoYUlnMAQfNGU3fkd6DC5_9ocXVZzItDhdGzte0kfgkD98W_0fIw71CS48AZon5gykpxbHxXxkzcTFHKHsrp0szDqArrxFJUI0cw7sjas1HI1CTRTfykByczXxck8XDa-B0ZBBodGMuGaIBFZ7HLGBAPVCCRNNOkX4ZDktl8Uy0JYhi3UphqsTuFtuZjyvrYndT4Pn2nLpRjS2c-0BRlAMFXC842VIoTk5WDkmjW4kJ3arW2KlxCMjAAAAAFSV4sjAA" # Replace this SESSION STRING with your actual SESSION_STRING
